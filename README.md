@@ -1,4 +1,4 @@
-[CSTRIKE] Client Clean Binds on Default Config 
+Client Clean Binds on Default Config 
 - Valve blocked the posibility to execute direct commands to clients.
 - So lets hook directly valve commands using APIs or Natives 
 - Example for F , X , C , V 
