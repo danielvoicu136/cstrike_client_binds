@@ -1,6 +1,6 @@
 Client Clean Binds on Default Config 
 - Valve blocked the posibility to execute direct commands to clients
-- So we hook Valve commands using API or natives 
+- Hook Valve commands using API or natives 
 - Example for keys F , Z , X , C 
 - Open shop 
 - Activate ultimate
